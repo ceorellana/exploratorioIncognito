@@ -26,8 +26,7 @@ def rankingXcontinente(archivo, continenteName):
 
     input("Presione enter para continuar")
 
-
-
+#def betterRankingXcontinente(archivo, continenteName):
 
 def troubleShooting(numero):
     if numero.isdigit():
@@ -54,10 +53,23 @@ def imprimirMenu():
         n = input("Escoja una opcion: ")
     return n
 
-continentes = ['Africa', 'Asia', 'Europa', 'Latinoamerica', 'Norteamerica', 'Oceania']
-opcion = imprimirMenu()
-while (opcion != "7"):
-    archivo_continente = continentes[int(opcion) - 1] + ".html"
-    rankingXcontinente(archivo_continente, continentes[int(opcion)-1])
-    opcion = imprimirMenu()
-print("Cerrando...")
+# continentes = ['Africa', 'Asia', 'Europa', 'Latinoamerica', 'Norteamerica', 'Oceania']
+# opcion = imprimirMenu()
+# while (opcion != "7"):
+#     archivo_continente = continentes[int(opcion) - 1] + ".html"
+#     rankingXcontinente(archivo_continente, continentes[int(opcion)-1])
+#     opcion = imprimirMenu()
+# print("Cerrando...")
+
+archivo = "Latinoamerica_Overall.html"
+with open(archivo) as html_file:
+    soup = BeautifulSoup(html_file,'html.parser')
+table_rows = soup.find_all("tr")
+for tr in table_rows:
+    td = tr.find_all('td')
+    row = [i.text for i in td]
+    if (len(row)==7):
+        overall = (float(row[3])*.4) + (float(row[4])*.3) + (float(row[5])*.15) + (float(row[6])*.15)
+    else:
+        overall = (float(row[2]) *.4) + (float(row[3] *.3)) + (float(row[4]) * .15) + (float(row[5]) * .15)
+    print(overall)
