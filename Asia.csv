@@ -1,15 +1,15 @@
-pais,no.universidades
-China,24
-Taiwan,12
-Japan,11
-South Korea,10
-India,9
-Malaysia,8
-Hong Kong,6
-Israel,5
-Saudi Arabia,4
-Turkey,4
-Singapore,3
-Thailand,2
-Indonesia,1
-Pakistan,1
+pais,no.universidades,continente
+China,24,Asia
+Taiwan,12,Asia
+Japan,11,Asia
+South Korea,10,Asia
+India,9,Asia
+Malaysia,8,Asia
+Hong Kong,6,Asia
+Israel,5,Asia
+Saudi Arabia,4,Asia
+Turkey,4,Asia
+Singapore,3,Asia
+Thailand,2,Asia
+Indonesia,1,Asia
+Pakistan,1,Asia

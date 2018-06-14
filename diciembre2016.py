@@ -1,11 +1,10 @@
 # -*- coding: utf-8 -*-
 from bs4 import BeautifulSoup
 import operator
-import csv
 
-def rankingXcontinente(archivo, continente):
-    archivo_continente = open(continente.strip() + ".csv", "w")
-    archivo_continente.write("pais,no.universidades\n")
+def rankingXcontinente(archivo, continenteName):
+    archivo_continente = open(continenteName.strip() + ".csv", "w")
+    archivo_continente.write("pais,no.universidades,continente\n")
     continente = dict()
     with open(archivo) as html_file:
         soup = BeautifulSoup(html_file,'html.parser')
@@ -20,7 +19,7 @@ def rankingXcontinente(archivo, continente):
     sorted_x = sorted(continente.items(), key=operator.itemgetter(1),reverse=True)
     for pais in sorted_x:
         print (pais[0],pais[1])
-        archivo_continente.write(",".join([pais[0],str(pais[1])]) )
+        archivo_continente.write(",".join([pais[0],str(pais[1]),continenteName]) )
         archivo_continente.write("\n")
     archivo_continente.close()
 

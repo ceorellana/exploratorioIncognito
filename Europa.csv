@@ -1,19 +1,19 @@
-pais,no.universidades
-United Kingdom,22
-Germany,14
-Italy,8
-Netherlands,8
-France,5
-Sweden,5
-Ireland,5
-Spain,5
-Switzerland,4
-Denmark,4
-Russia,3
-Belgium,3
-Austria,3
-Portugal,3
-Greece,2
-Finland,2
-Czech Republic,2
-Norway,2
+pais,no.universidades,continente
+United Kingdom,22,Europa
+Germany,14,Europa
+Italy,8,Europa
+Netherlands,8,Europa
+France,5,Europa
+Sweden,5,Europa
+Ireland,5,Europa
+Spain,5,Europa
+Switzerland,4,Europa
+Denmark,4,Europa
+Russia,3,Europa
+Belgium,3,Europa
+Austria,3,Europa
+Portugal,3,Europa
+Greece,2,Europa
+Finland,2,Europa
+Czech Republic,2,Europa
+Norway,2,Europa

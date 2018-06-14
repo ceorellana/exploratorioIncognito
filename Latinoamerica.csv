@@ -1,6 +1,6 @@
-pais,no.universidades
-Brazil,10
-Chile,5
-Mexico,5
-Argentina,1
-Colombia,1
+pais,no.universidades,continente
+Brazil,10,Latinoamerica
+Chile,5,Latinoamerica
+Mexico,5,Latinoamerica
+Argentina,1,Latinoamerica
+Colombia,1,Latinoamerica
