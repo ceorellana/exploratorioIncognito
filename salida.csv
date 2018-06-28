@@ -1,0 +1,363 @@
+pais,overall,continente
+Egypt,57.675000000000004,Africa
+South Africa,58.355,Africa
+South Africa,53.599999999999994,Africa
+South Africa,53.74499999999999,Africa
+pais,overall,continente
+Singapore,84.09,Asia
+Hong Kong,82.79,Asia
+Singapore,82.1,Asia
+China,82.005,Asia
+China,81.53500000000001,Asia
+Japan,81.295,Asia
+Hong Kong,80.77000000000001,Asia
+Hong Kong,80.14,Asia
+South Korea,79.09,Asia
+South Korea,77.75999999999999,Asia
+Taiwan,76.83,Asia
+China,75.56,Asia
+Hong Kong,75.13499999999999,Asia
+China,72.83500000000001,Asia
+India,70.47,Asia
+India,70.995,Asia
+South Korea,70.815,Asia
+Japan,70.705,Asia
+Taiwan,69.87,Asia
+Taiwan,71.04,Asia
+Israel,73.66499999999999,Asia
+Hong Kong,73.965,Asia
+Japan,69.705,Asia
+Malaysia,74.93500000000002,Asia
+Malaysia,70.22500000000001,Asia
+China,70.435,Asia
+China,72.475,Asia
+Israel,66.36,Asia
+China,68.215,Asia
+Taiwan,68.795,Asia
+South Korea,69.58,Asia
+South Korea,69.365,Asia
+Israel,66.635,Asia
+Malaysia,66.71000000000001,Asia
+Malaysia,68.635,Asia
+South Korea,69.63000000000001,Asia
+South Korea,65.715,Asia
+India,65.02,Asia
+India,63.96,Asia
+India,63.75,Asia
+Japan,65.64,Asia
+Saudi Arabia,63.16,Asia
+Taiwan,65.41499999999999,Asia
+Japan,65.7,Asia
+Singapore,64.77,Asia
+Malaysia,65.505,Asia
+Japan,63.60000000000001,Asia
+China,60.765,Asia
+China,60.834999999999994,Asia
+Thailand,61.12,Asia
+China,62.839999999999996,Asia
+India,61.839999999999996,Asia
+Saudi Arabia,61.22999999999999,Asia
+South Korea,61.989999999999995,Asia
+Japan,60.83,Asia
+Taiwan,60.705,Asia
+Taiwan,62.050000000000004,Asia
+China,61.24999999999999,Asia
+Japan,62.36,Asia
+China,62.84,Asia
+China,62.67,Asia
+Indonesia,58.980000000000004,Asia
+Japan,58.895,Asia
+Hong Kong,59.66499999999999,Asia
+China,60.059999999999995,Asia
+Saudi Arabia,60.419999999999995,Asia
+Saudi Arabia,59.905,Asia
+China,59.56,Asia
+China,59.724999999999994,Asia
+Malaysia,59.585,Asia
+Israel,59.57000000000001,Asia
+China,57.035,Asia
+China,57.269999999999996,Asia
+Israel,56.975,Asia
+Turkey,56.26,Asia
+India,57.834999999999994,Asia
+Turkey,57.105000000000004,Asia
+Malaysia,57.61,Asia
+Japan,57.934999999999995,Asia
+Taiwan,57.64,Asia
+Taiwan,57.24,Asia
+Pakistan,57.255,Asia
+South Korea,56.22,Asia
+Malaysia,58.184999999999995,Asia
+Japan,56.325,Asia
+Thailand,54.34,Asia
+China,54.739999999999995,Asia
+China,56.08999999999999,Asia
+Turkey,55.185,Asia
+India,55.464999999999996,Asia
+Turkey,55.65,Asia
+Taiwan,54.82000000000001,Asia
+Taiwan,54.57,Asia
+Taiwan,55.59,Asia
+South Korea,55.49999999999999,Asia
+China,55.4,Asia
+China,55.480000000000004,Asia
+China,54.61,Asia
+China,55.125,Asia
+India,56.07,Asia
+pais,overall,continente
+United Kingdom,88.805,Europa
+United Kingdom,87.555,Europa
+Switzerland,84.73499999999999,Europa
+United Kingdom,83.72,Europa
+Switzerland,81.59,Europa
+United Kingdom,80.095,Europa
+United Kingdom,79.86500000000001,Europa
+Germany,76.905,Europa
+Italy,76.19999999999999,Europa
+Russia,75.365,Europa
+Netherlands,71.425,Europa
+France,70.19,Europa
+Belgium,73.08,Europa
+United Kingdom,71.50999999999999,Europa
+Germany,70.83,Europa
+Sweden,72.885,Europa
+Germany,71.57000000000001,Europa
+Italy,70.07499999999999,Europa
+Germany,70.525,Europa
+Italy,70.745,Europa
+Germany,71.32,Europa
+Austria,69.85,Europa
+United Kingdom,74.07000000000001,Europa
+Ireland,69.84,Europa
+Italy,71.125,Europa
+Spain,71.08999999999999,Europa
+Netherlands,72.89,Europa
+United Kingdom,70.36,Europa
+United Kingdom,69.74000000000001,Europa
+Denmark,69.18,Europa
+France,66.725,Europa
+Sweden,66.52,Europa
+France,68.405,Europa
+Netherlands,68.62,Europa
+Germany,69.19,Europa
+United Kingdom,66.87,Europa
+United Kingdom,66.305,Europa
+Greece,66.5,Europa
+Spain,68.17000000000002,Europa
+Germany,68.805,Europa
+United Kingdom,68.2,Europa
+Spain,66.99,Europa
+Spain,66.97500000000001,Europa
+Italy,66.415,Europa
+Italy,69.315,Europa
+Spain,65.925,Europa
+Germany,66.03,Europa
+Belgium,66.35,Europa
+Ireland,67.15,Europa
+United Kingdom,67.095,Europa
+United Kingdom,68.285,Europa
+Denmark,66.99,Europa
+Portugal,67.895,Europa
+United Kingdom,65.935,Europa
+Switzerland,66.345,Europa
+Sweden,65.97,Europa
+Netherlands,66.28999999999999,Europa
+Denmark,64.67500000000001,Europa
+Finland,65.53999999999999,Europa
+Sweden,65.17500000000001,Europa
+United Kingdom,63.754999999999995,Europa
+Germany,63.945,Europa
+Germany,64.07000000000001,Europa
+Russia,64.795,Europa
+Denmark,62.985,Europa
+France,63.959999999999994,Europa
+United Kingdom,63.25999999999999,Europa
+United Kingdom,65.265,Europa
+Italy,62.91,Europa
+Italy,63.474999999999994,Europa
+Austria,63.335,Europa
+Finland,64.315,Europa
+Portugal,63.21,Europa
+Netherlands,63.824999999999996,Europa
+Czech Republic,61.074999999999996,Europa
+Ireland,61.35,Europa
+Germany,61.949999999999996,Europa
+Austria,61.415,Europa
+Sweden,61.26,Europa
+Ireland,61.37500000000001,Europa
+United Kingdom,61.455,Europa
+Norway,61.655,Europa
+Germany,62.614999999999995,Europa
+Germany,62.025000000000006,Europa
+Germany,62.36000000000001,Europa
+Belgium,60.705,Europa
+France,62.64999999999999,Europa
+Ireland,61.769999999999996,Europa
+Portugal,62.035,Europa
+Switzerland,62.19,Europa
+Netherlands,61.25,Europa
+United Kingdom,62.225,Europa
+Norway,62.665000000000006,Europa
+Netherlands,61.445,Europa
+Greece,59.73,Europa
+United Kingdom,59.03,Europa
+United Kingdom,60.535000000000004,Europa
+Czech Republic,59.155,Europa
+Russia,59.739999999999995,Europa
+Netherlands,60.050000000000004,Europa
+pais,overall,continente
+Chile,71.945,Latinoamerica
+Mexico,71.605,Latinoamerica
+Brazil,69.88,Latinoamerica
+Chile,69.075,Latinoamerica
+Mexico,67.22,Latinoamerica
+Brazil,66.495,Latinoamerica
+Mexico,64.39999999999999,Latinoamerica
+Argentina,65.35000000000001,Latinoamerica
+Brazil,59.095,Latinoamerica
+Colombia,60.38,Latinoamerica
+Brazil,60.595,Latinoamerica
+Brazil,60.285000000000004,Latinoamerica
+Brazil,59.510000000000005,Latinoamerica
+Chile,57.03999999999999,Latinoamerica
+Brazil,54.78,Latinoamerica
+Mexico,52.665000000000006,Latinoamerica
+Chile,53.315,Latinoamerica
+Brazil,54.155,Latinoamerica
+Brazil,53.915,Latinoamerica
+Brazil,51.85999999999999,Latinoamerica
+Mexico,51.15,Latinoamerica
+Chile,52.0,Latinoamerica
+pais,overall,continente
+United States,94.31,Norteamerica
+United States,93.91999999999999,Norteamerica
+United States,93.03999999999999,Norteamerica
+United States,89.73500000000001,Norteamerica
+United States,88.29,Norteamerica
+United States,86.285,Norteamerica
+Canada,84.085,Norteamerica
+United States,83.225,Norteamerica
+United States,81.58,Norteamerica
+United States,81.35000000000001,Norteamerica
+United States,81.27,Norteamerica
+United States,81.03,Norteamerica
+United States,80.925,Norteamerica
+United States,80.67,Norteamerica
+United States,80.08500000000001,Norteamerica
+Canada,79.99,Norteamerica
+United States,79.57499999999999,Norteamerica
+Canada,79.12,Norteamerica
+United States,78.57,Norteamerica
+United States,78.435,Norteamerica
+United States,76.05,Norteamerica
+United States,76.135,Norteamerica
+United States,76.04,Norteamerica
+United States,70.655,Norteamerica
+United States,71.655,Norteamerica
+United States,71.165,Norteamerica
+Canada,72.725,Norteamerica
+United States,70.48500000000001,Norteamerica
+United States,73.14,Norteamerica
+United States,70.275,Norteamerica
+United States,73.295,Norteamerica
+United States,73.955,Norteamerica
+United States,72.075,Norteamerica
+United States,67.69,Norteamerica
+United States,67.0,Norteamerica
+Canada,67.695,Norteamerica
+Canada,69.21000000000001,Norteamerica
+United States,66.60000000000001,Norteamerica
+United States,68.735,Norteamerica
+United States,68.945,Norteamerica
+United States,64.77,Norteamerica
+United States,65.625,Norteamerica
+United States,65.615,Norteamerica
+United States,63.99,Norteamerica
+United States,65.08500000000001,Norteamerica
+Canada,63.935,Norteamerica
+United States,65.41000000000001,Norteamerica
+United States,63.45499999999999,Norteamerica
+Canada,65.5,Norteamerica
+United States,64.495,Norteamerica
+United States,63.86500000000001,Norteamerica
+United States,64.575,Norteamerica
+United States,64.28999999999999,Norteamerica
+United States,64.595,Norteamerica
+United States,64.495,Norteamerica
+United States,64.995,Norteamerica
+United States,61.185,Norteamerica
+Canada,61.91499999999999,Norteamerica
+United States,61.075,Norteamerica
+Canada,61.16,Norteamerica
+United States,62.005,Norteamerica
+United States,62.434999999999995,Norteamerica
+Canada,62.27,Norteamerica
+Canada,60.07000000000001,Norteamerica
+United States,58.765,Norteamerica
+Canada,60.190000000000005,Norteamerica
+United States,60.28,Norteamerica
+Canada,58.709999999999994,Norteamerica
+Canada,60.629999999999995,Norteamerica
+United States,59.98,Norteamerica
+United States,59.519999999999996,Norteamerica
+Canada,58.775,Norteamerica
+United States,57.88999999999999,Norteamerica
+United States,57.959999999999994,Norteamerica
+United States,56.19,Norteamerica
+United States,57.955,Norteamerica
+United States,58.489999999999995,Norteamerica
+United States,58.35999999999999,Norteamerica
+United States,58.355,Norteamerica
+United States,56.535,Norteamerica
+United States,58.099999999999994,Norteamerica
+United States,57.665,Norteamerica
+United States,54.33500000000001,Norteamerica
+United States,54.525,Norteamerica
+United States,55.21,Norteamerica
+United States,55.769999999999996,Norteamerica
+United States,55.595,Norteamerica
+United States,55.03,Norteamerica
+United States,54.849999999999994,Norteamerica
+United States,55.60999999999999,Norteamerica
+Canada,54.06,Norteamerica
+United States,54.05499999999999,Norteamerica
+United States,53.53,Norteamerica
+Canada,52.93,Norteamerica
+United States,52.88,Norteamerica
+United States,52.665,Norteamerica
+United States,52.655,Norteamerica
+Canada,52.794999999999995,Norteamerica
+United States,53.47,Norteamerica
+United States,53.095,Norteamerica
+pais,overall,continente
+Australia,82.75500000000001,Oceania
+Australia,78.79499999999999,Oceania
+Australia,78.55499999999999,Oceania
+Australia,77.415,Oceania
+Australia,73.405,Oceania
+Australia,70.875,Oceania
+New Zealand,74.295,Oceania
+Australia,72.52,Oceania
+Australia,74.53999999999999,Oceania
+Australia,67.125,Oceania
+Australia,69.495,Oceania
+Australia,64.04499999999999,Oceania
+Australia,64.69999999999999,Oceania
+New Zealand,63.919999999999995,Oceania
+New Zealand,63.54999999999999,Oceania
+New Zealand,62.04,Oceania
+Australia,61.76499999999999,Oceania
+Australia,62.705,Oceania
+Australia,61.985,Oceania
+Australia,61.49499999999999,Oceania
+New Zealand,62.455000000000005,Oceania
+Australia,60.885000000000005,Oceania
+New Zealand,62.53500000000001,Oceania
+Australia,62.675,Oceania
+New Zealand,59.059999999999995,Oceania
+Australia,57.29,Oceania
+Australia,56.075,Oceania
+Australia,54.31,Oceania
+Australia,54.800000000000004,Oceania
+Australia,52.545,Oceania
+
