@@ -52,7 +52,7 @@ def getWords(url,browser):
 url="https://scholar.google.com/scholar?hl=es&as_sdt=0%2C5&q=programming+language&btnG=&oq=programming+"
 browser = webdriver.Chrome("C:\\Users\\Carlo Orellana\\Downloads\\chromedriver.exe")
 browser.get(url)  # Load page
-raw_input("Resuelva los captchas (si los hubiese), deseleccione citas y patentes y presione enter para comenzar ")
+input("Resuelva los captchas (si los hubiese), deseleccione citas y patentes y presione enter para comenzar ")
 
 
 isPresent = len(browser.find_elements_by_xpath('//*[@id="gs_n"]/center/table/tbody/tr/td[12]/a')) >0
@@ -70,10 +70,10 @@ while (isPresent):
     i+=1
     if (isPresent == False):
         print("1. Captcha\n2. Fin de busqueda")
-        op = int(raw_input("Seleccione lo ocurrido: "))
+        op = int(input("Seleccione lo ocurrido: "))
         if (op == 1):
             isPresent == True
-            raw_input("Resuelva el captcha y presione enter ")
+            input("Resuelva el captcha y presione enter ")
             print("Continuando con el programa...")
         else:
             print("Cerrando el programa...")
