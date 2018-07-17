@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97d146ad-cdca-49e9-8055-d8d4431a92b6" name="Default" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/ecBusinessData.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ecBusinessData.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/paperWords.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+>>>>>>> 3f5450d85ab382540d8b6af3ea46f208237b3cb8
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,13 +23,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="topUniversities.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/topUniversities.py">
+      <file leaf-file-name="paperLinks.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/paperLinks.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="60">
               <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
               <folding>
                 <element signature="e#24#53#0" expanded="true" />
+=======
+            <state relative-caret-position="255">
+              <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="paperWords.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/paperWords.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1326">
+              <caret line="78" column="44" lean-forward="false" selection-start-line="78" selection-start-column="44" selection-end-line="78" selection-end-column="44" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+>>>>>>> 3f5450d85ab382540d8b6af3ea46f208237b3cb8
               </folding>
             </state>
           </provider>
@@ -35,6 +59,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -48,14 +73,24 @@
         <option value="$PROJECT_DIR$/data.txt" />
         <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/plantilla.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/../../../Espol/1S-2018/Análisis Exploratorio de Datos/Notebooks/AnalisisDiciembre2016.py" />
         <option value="$USER_HOME$/Downloads/olx.py" />
+=======
+        <option value="$USER_HOME$/Documents/Espol/1S-2018/Análisis Exploratorio de Datos/Notebooks/AnalisisDiciembre2016.py" />
+>>>>>>> 3f5450d85ab382540d8b6af3ea46f208237b3cb8
         <option value="$PROJECT_DIR$/../exploratorios2/exploratorio3.py" />
         <option value="$PROJECT_DIR$/Africa.csv" />
         <option value="$PROJECT_DIR$/QuickSort.py" />
         <option value="$PROJECT_DIR$/diciembre2016.py" />
         <option value="$PROJECT_DIR$/../exploratorios1/QuickSort.py" />
+        <option value="$PROJECT_DIR$/Africa_Overall.html" />
+        <option value="$PROJECT_DIR$/AfricaOverallScore.html" />
         <option value="$PROJECT_DIR$/topUniversities.py" />
+        <option value="$USER_HOME$/Downloads/olx.py" />
+        <option value="$PROJECT_DIR$/../morse_code/main.py" />
+        <option value="$USER_HOME$/Documents/MySQL/Petrogosa/whatsapp.py" />
+        <option value="$PROJECT_DIR$/paperWords.py" />
       </list>
     </option>
   </component>
@@ -97,12 +132,22 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../exploratorios1/QuickSort.py" />
+=======
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> 3f5450d85ab382540d8b6af3ea46f208237b3cb8
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -121,9 +166,14 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.topUniversities">
     <configuration name="QuickSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ecBusinessData" />
+=======
+  <component name="RunManager" selected="Python.paperWords">
+    <configuration default="false" name="diciembre2016" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 3f5450d85ab382540d8b6af3ea46f208237b3cb8
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -141,51 +191,82 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="diciembre2016" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ecBusinessData" />
+=======
+    <configuration default="false" name="QuickSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 3f5450d85ab382540d8b6af3ea46f208237b3cb8
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/diciembre2016.py" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../exploratorios1" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ecBusinessData" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../exploratorios1/QuickSort.py" />
+>>>>>>> 3f5450d85ab382540d8b6af3ea46f208237b3cb8
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="exploratorio3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ecBusinessData" />
+=======
+    <configuration default="false" name="topUniversities" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 3f5450d85ab382540d8b6af3ea46f208237b3cb8
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../exploratorios2" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../exploratorios2/exploratorio3.py" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ecBusinessData" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/topUniversities.py" />
+>>>>>>> 3f5450d85ab382540d8b6af3ea46f208237b3cb8
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="olx" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ecBusinessData" />
+=======
+    <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 3f5450d85ab382540d8b6af3ea46f208237b3cb8
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
+<<<<<<< HEAD
       <option name="SDK_HOME" value="C:\Python27\python.exe" />
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -193,25 +274,43 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/olx.py" />
+=======
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../morse_code" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ecBusinessData" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../morse_code/main.py" />
+>>>>>>> 3f5450d85ab382540d8b6af3ea46f208237b3cb8
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="topUniversities" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ecBusinessData" />
+=======
+    <configuration default="false" name="paperWords" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 3f5450d85ab382540d8b6af3ea46f208237b3cb8
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Program Files (x86)\Python36-32\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/topUniversities.py" />
+=======
+      <module name="ecBusinessData" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/paperWords.py" />
+>>>>>>> 3f5450d85ab382540d8b6af3ea46f208237b3cb8
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -231,6 +330,7 @@
       <option name="_new_target" value="&quot;.&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
+<<<<<<< HEAD
     <list>
       <item itemvalue="Python.diciembre2016" />
       <item itemvalue="Python.exploratorio3" />
@@ -245,6 +345,22 @@
         <item itemvalue="Python.diciembre2016" />
         <item itemvalue="Python.exploratorio3" />
         <item itemvalue="Python.olx" />
+=======
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.diciembre2016" />
+      <item index="1" class="java.lang.String" itemvalue="Python.QuickSort" />
+      <item index="2" class="java.lang.String" itemvalue="Python.topUniversities" />
+      <item index="3" class="java.lang.String" itemvalue="Python.main" />
+      <item index="4" class="java.lang.String" itemvalue="Python.paperWords" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.paperWords" />
+        <item index="1" class="java.lang.String" itemvalue="Python.main" />
+        <item index="2" class="java.lang.String" itemvalue="Python.topUniversities" />
+        <item index="3" class="java.lang.String" itemvalue="Python.QuickSort" />
+        <item index="4" class="java.lang.String" itemvalue="Python.diciembre2016" />
+>>>>>>> 3f5450d85ab382540d8b6af3ea46f208237b3cb8
       </list>
     </recent_temporary>
   </component>
@@ -264,6 +380,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
+<<<<<<< HEAD
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
@@ -307,6 +424,27 @@
       <window_info anchor="bottom" id="Find" order="5" />
       <window_info anchor="bottom" id="Python Console" order="2" />
     </layout-to-restore>
+=======
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49369085" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+>>>>>>> 3f5450d85ab382540d8b6af3ea46f208237b3cb8
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -323,10 +461,11 @@
           <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="9" />
+      <option name="time" value="10" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Africa.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -340,6 +479,8 @@
     <entry file="file://$USER_HOME$/Downloads/olx.py" />
     <entry file="file://$PROJECT_DIR$/main.py" />
     <entry file="file://$PROJECT_DIR$/plantilla.py" />
+=======
+>>>>>>> 3f5450d85ab382540d8b6af3ea46f208237b3cb8
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17238">
@@ -350,8 +491,13 @@
     <entry file="file://$PROJECT_DIR$/../exploratorios2/exploratorio3.py" />
     <entry file="file://$PROJECT_DIR$/data.txt">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state>
           <caret column="273" selection-end-column="10335" />
+=======
+        <state relative-caret-position="0">
+          <caret line="0" column="273" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="10335" />
+>>>>>>> 3f5450d85ab382540d8b6af3ea46f208237b3cb8
         </state>
       </provider>
     </entry>
@@ -360,8 +506,13 @@
     <entry file="file://$PROJECT_DIR$/plantilla.py" />
     <entry file="file://$PROJECT_DIR$/data.txt">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state>
           <caret column="273" selection-end-column="10335" />
+=======
+        <state relative-caret-position="0">
+          <caret line="0" column="273" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="10335" />
+>>>>>>> 3f5450d85ab382540d8b6af3ea46f208237b3cb8
         </state>
       </provider>
     </entry>
@@ -405,6 +556,7 @@
     <entry file="file://C:/Python27/Lib/site-packages/scrapy/utils/misc.py" />
     <entry file="file://$PROJECT_DIR$/plantilla.py" />
     <entry file="file://$PROJECT_DIR$/main.py" />
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Asia.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -442,15 +594,125 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
+=======
+    <entry file="file://$PROJECT_DIR$/Asia.csv" />
+    <entry file="file://$PROJECT_DIR$/Europa.html" />
+    <entry file="file://$PROJECT_DIR$/Europa.csv" />
+    <entry file="file://$PROJECT_DIR$/Africa.csv" />
+    <entry file="file://$PROJECT_DIR$/Oceania.csv" />
+    <entry file="file://$PROJECT_DIR$/Norteamerica.csv" />
+    <entry file="file://$PROJECT_DIR$/Latinoamerica.csv" />
+    <entry file="file://$PROJECT_DIR$/Asia.html" />
+    <entry file="file://$PROJECT_DIR$/AsiaScores.html" />
+    <entry file="file://$PROJECT_DIR$/Africa.html" />
+    <entry file="file://$PROJECT_DIR$/QuickSort.py" />
+    <entry file="file://$PROJECT_DIR$/../exploratorios1/QuickSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="17" lean-forward="false" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diciembre2016.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Latinoamerica_Overall.csv" />
+    <entry file="file://$PROJECT_DIR$/Africa_Overall.html" />
+    <entry file="file://$PROJECT_DIR$/AfricaOverallScore.html" />
+    <entry file="file://$USER_HOME$/Downloads/olx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../morse_code/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="34" column="38" lean-forward="false" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../morse_code/morse_code.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/Espol/1S-2018/Análisis Exploratorio de Datos/Proyecto/proyecto_exploratorio/olx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result.txt" />
+    <entry file="file://$PROJECT_DIR$/source.html" />
+    <entry file="file://$PROJECT_DIR$/../exploratorios2/exploratorio3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="36" lean-forward="false" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/MySQL/Petrogosa/whatsapp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="53" lean-forward="false" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/topUniversities.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-100">
+          <caret line="10" column="52" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="52" />
+          <folding>
+            <element signature="e#24#53#0" expanded="true" />
+            <element signature="e#1131#2061#0" expanded="false" />
+            <element signature="e#2096#2351#0" expanded="false" />
+            <element signature="e#2377#2728#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paperLinks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+>>>>>>> 3f5450d85ab382540d8b6af3ea46f208237b3cb8
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paperWords.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="60">
           <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
           <folding>
             <element signature="e#24#53#0" expanded="true" />
+=======
+        <state relative-caret-position="1326">
+          <caret line="78" column="44" lean-forward="false" selection-start-line="78" selection-start-column="44" selection-end-line="78" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+>>>>>>> 3f5450d85ab382540d8b6af3ea46f208237b3cb8
           </folding>
         </state>
       </provider>
