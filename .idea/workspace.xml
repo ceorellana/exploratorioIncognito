@@ -2,34 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97d146ad-cdca-49e9-8055-d8d4431a92b6" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Africa.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Africa.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AfricaOverallScore.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Africa_Overall.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Asia.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Asia.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AsiaOverallScore.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Asia_Overall.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Europa.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Europa.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EuropaOverallScore.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Europa_Overall.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Latinoamerica.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Latinoamerica.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LatinoamericaOverallScore.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Latinoamerica_Overall.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Norteamerica.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Norteamerica.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NorteamericaOverallScore.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Norteamerica_Overall.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oceania.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oceania.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OceaniaOverallScore.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Oceania_Overall.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/result.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source.html" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/paperWords.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/paperWords.py" afterPath="$PROJECT_DIR$/paperWords.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,16 +15,13 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="topUniversities.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/topUniversities.py">
+      <file leaf-file-name="paperLinks.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/paperLinks.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="10" column="52" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="52" />
+            <state relative-caret-position="255">
+              <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
               <folding>
-                <element signature="e#24#53#0" expanded="true" />
-                <element signature="e#1131#2061#0" expanded="false" />
-                <element signature="e#2096#2351#0" expanded="false" />
-                <element signature="e#2377#2728#0" expanded="false" />
+                <element signature="e#0#15#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -59,45 +30,11 @@
       <file leaf-file-name="paperWords.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/paperWords.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="35" column="124" lean-forward="false" selection-start-line="35" selection-start-column="124" selection-end-line="35" selection-end-column="124" />
+            <state relative-caret-position="1326">
+              <caret line="78" column="44" lean-forward="false" selection-start-line="78" selection-start-column="44" selection-end-line="78" selection-end-column="44" />
               <folding>
-                <element signature="e#276#1047#0" expanded="false" />
+                <element signature="e#0#15#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="whatsapp.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Documents/MySQL/Petrogosa/whatsapp.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="16" column="53" lean-forward="false" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="exploratorio3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../exploratorios2/exploratorio3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="8" column="36" lean-forward="false" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="olx.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Documents/Espol/1S-2018/Análisis Exploratorio de Datos/Proyecto/proyecto_exploratorio/olx.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -159,7 +96,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -202,11 +138,12 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Espol/1S-2018/Análisis Exploratorio de Datos/Proyecto/proyecto_exploratorio/olx.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
@@ -453,7 +390,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/plantilla.py" />
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17238">
@@ -583,19 +519,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/topUniversities.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="10" column="52" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="52" />
-          <folding>
-            <element signature="e#24#53#0" expanded="true" />
-            <element signature="e#1131#2061#0" expanded="false" />
-            <element signature="e#2096#2351#0" expanded="false" />
-            <element signature="e#2377#2728#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../morse_code/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -618,20 +541,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/result.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="66" column="16" lean-forward="true" selection-start-line="66" selection-start-column="16" selection-end-line="66" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/result.txt" />
+    <entry file="file://$PROJECT_DIR$/source.html" />
     <entry file="file://$PROJECT_DIR$/../exploratorios2/exploratorio3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -644,7 +555,7 @@
     </entry>
     <entry file="file://$USER_HOME$/Documents/MySQL/Petrogosa/whatsapp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
+        <state relative-caret-position="272">
           <caret line="16" column="53" lean-forward="false" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
@@ -652,12 +563,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/topUniversities.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-100">
+          <caret line="10" column="52" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="52" />
+          <folding>
+            <element signature="e#24#53#0" expanded="true" />
+            <element signature="e#1131#2061#0" expanded="false" />
+            <element signature="e#2096#2351#0" expanded="false" />
+            <element signature="e#2377#2728#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paperLinks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/paperWords.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="35" column="124" lean-forward="false" selection-start-line="35" selection-start-column="124" selection-end-line="35" selection-end-column="124" />
+        <state relative-caret-position="1326">
+          <caret line="78" column="44" lean-forward="false" selection-start-line="78" selection-start-column="44" selection-end-line="78" selection-end-column="44" />
           <folding>
-            <element signature="e#276#1047#0" expanded="false" />
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
