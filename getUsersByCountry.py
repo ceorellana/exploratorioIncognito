@@ -29,3 +29,26 @@ nUsers = browser.find_element_by_xpath('//*[@id="js-pjax-container"]/div/div[3]/
 nUsers = nUsers.text.split(" ")[0]
 nUsers = int(nUsers.replace(',', ''))
 
+#for i in range(100):
+msg_box = browser.find_element_by_name("q")
+msg_box.click()
+msg_box.send_keys(" repos:0\n")
+
+nextPage = browser.find_elements_by_class_name("next_page")
+time.sleep(60)
+
+while(len(nextPage)==1):
+    users = browser.find_elements_by_css_selector(".user-list-info.ml-2")
+
+    for user in users:
+        print(user.find_element_by_css_selector('a').text)
+        #print(user.find_element_by_css_selector('a').get_attribute('href')) Usar esta si se quiere el enlace a la cuenta
+
+    nextPage = browser.find_elements_by_class_name("next_page")
+    if (len(nextPage)==1): #Revisar que exista el boton para la pagina siguiente
+        nextPage[0].click()
+    time.sleep(60)
+    if (len(browser.find_elements_by_class_name("container"))==1):
+        time.sleep(60)
+        browser.refresh()
+        time.sleep(6)
